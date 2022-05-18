@@ -1,5 +1,5 @@
 # User-Management-System
-A  simple user management system built using React , Plain CSS and Firebase for Storage, Filtering and Sorting througth the user.
+A  simple user management system built using React , Plain CSS and Firebase for Storage, Searching,Filtering and Sorting through users.
 
 ## How to use
 1. On your terminal, run `npm install` to install the necesssary dependencies 
